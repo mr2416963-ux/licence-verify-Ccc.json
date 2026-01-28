@@ -1,12 +1,10 @@
 {
-  "OFFICIAL-KEY-001": {
+  "xx": {
     "user_id": "UX-WFGOL-0621",
-    "token": "xx",
     "status": "active"
   },
-  "VIP-USER-99": {
-    "user_id": "ID-Z9Y8X7W6V",
-    "token": "vip_access_5544",
+  "premium-123": {
+    "user_id": "UX-ABCDE-1234",
     "status": "active"
   }
 }
